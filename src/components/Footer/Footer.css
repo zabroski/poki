@@ -1,0 +1,45 @@
+.fouter-container {
+  text-decoration: white;
+  background-color: rgb(31, 29, 29);
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25); */
+}
+
+.fouter-container h3 {
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+.fouter-container ul li {
+  color: rgb(197, 194, 194);
+  margin: 10px;
+}
+
+.fouter-container div a {
+  color: rgb(197, 194, 194);
+}
+
+.fouter-container div p {
+  font-size: 13px;
+  color: rgb(197, 194, 194);
+}
+
+.bi {
+  display: flex;
+  margin: 10px;
+  flex-direction: column;
+  width: 35px;
+  height: 35px;
+  color: rgb(76, 76, 87);
+  margin-top: 40px;
+}
+
+.icons {
+  display: flex;
+}
+.footer-summary li {
+  list-style: none;
+  margin: 10px;
+}

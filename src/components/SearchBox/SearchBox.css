@@ -1,0 +1,24 @@
+.searchBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgb(31, 29, 29);
+  width: 100%;
+  padding: 30px;
+}
+.searchBox p {
+  color: rgb(173, 169, 169);
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Hahmlet", serif;
+}
+
+.searchBox input {
+  padding: 10px;
+  width: 400px;
+  text-align: justify;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  outline: none;
+}
